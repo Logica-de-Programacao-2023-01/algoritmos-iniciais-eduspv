@@ -1,0 +1,8 @@
+leia f 
+leia c
+leia 1,8
+leia 32
+para f = c . 1,8 + 32
+faca f
+para c = f-32/1.8
+faca c
