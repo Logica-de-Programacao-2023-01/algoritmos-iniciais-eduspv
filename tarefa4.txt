@@ -1,0 +1,5 @@
+leia !
+se ! esta no calculo e necessario multiplicar todos os numeros inteiros menores ate 1  do que o numero do lado do !
+leia b =10!
+faca b
+fim
