@@ -1,0 +1,4 @@
+1 leia 1 
+2 leia 2
+3 z = 1 + 2
+4 faca z 
