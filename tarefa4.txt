@@ -1,5 +1,4 @@
-leia !
-se ! esta no calculo e necessario multiplicar todos os numeros inteiros menores ate 1  do que o numero do lado do !
-leia b =10!
-faca b
-fim
+leia x
+var produto = 1
+para todo numero de 1 ate x faca;
+produto = produto * numero_atual
