@@ -1,0 +1,4 @@
+leia juros
+leia taxa
+leia valor inicial
+valor inicial . taxa = juros
