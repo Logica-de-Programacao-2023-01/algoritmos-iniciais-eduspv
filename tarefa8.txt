@@ -1,6 +1,5 @@
 leia b
 leia h
 leia a
-leia 2
-a = b.h/2
+a = b*h/2
 faca a
