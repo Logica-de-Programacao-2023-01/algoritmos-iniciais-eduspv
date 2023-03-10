@@ -1,0 +1,4 @@
+leia x
+x = qualquer numero
+se x for divisivel somente por 1 e por x ele e um numero primo
+senao ele nao e
