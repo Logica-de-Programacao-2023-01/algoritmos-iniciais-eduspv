@@ -1,0 +1,6 @@
+leia 5
+leia 3
+c = 5^3
+faca c
+
+
