@@ -1,4 +1,6 @@
 leia x
+se x = 2
+       entao escreva "e primo"
 para todos os valores entre 2 e x-1, faca:
     se x dividido pelo valor atual tem resto 0:
                           entao escreva "nao e primo"
