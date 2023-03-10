@@ -2,3 +2,4 @@ leia x
 var produto = 1
 para todo numero de 1 ate x faca;
 produto = produto * numero_atual
+escreva produto
