@@ -1,0 +1,6 @@
+leia lista 
+leia algoritmos
+leia 5
+leia uma lista 
+se na lista tiver um 5 retire-o e reescreva abaixo
+senao faca nada 
