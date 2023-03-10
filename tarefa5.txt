@@ -1,6 +1,6 @@
 leia lista 
-leia algoritmos
-leia 5
-leia uma lista 
-se na lista tiver um 5 retire-o e reescreva abaixo
-senao faca nada 
+leia x
+para cada elemento da lista faca;
+   se elemento da lista for igual a x
+                entao escreva x
+escreva "nao encontrei"
