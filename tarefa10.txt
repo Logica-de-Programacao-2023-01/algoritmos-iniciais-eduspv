@@ -1,6 +1,10 @@
-leia n
+leia lista
 leia p
-leia x
-leia mp
-Mp = [(N1 x P1) + (N2 x P2) + (N3 x P3) + ... (Nx x Px)] ÷ (P1 + P2 + ...px)
-faca mp
+var resultado = 0
+var somatorio_pesos = 0
+para cad elemento da lista faca;
+    resultado = resultado + (elemento * peso_correspondente)
+para cada peso dos pesos faca;
+    somatoria_pesos = somatoria_ pesos + peso
+resultado = somatorio_elementos / somatorio_pesos
+escreva resultado
