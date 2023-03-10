@@ -1,6 +1,7 @@
-leia 5
-leia 3
-c = 5^3
-faca c
-
+leia x
+leia potencia 
+var resultado = x
+para todos os valores entre 1 e potencia, faca;
+    resultado = resultado x "x"
+escreva resultado
 
