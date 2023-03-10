@@ -4,4 +4,4 @@ leia tempo
 var resultado = capital * taxa_juros
 para todos os valores netre 1 e tempo faca;
       resultado = resultado * taxa_juros
-      escreva resultado
+escreva resultado
