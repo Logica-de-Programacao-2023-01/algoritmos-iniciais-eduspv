@@ -1,0 +1,6 @@
+leia n
+leia p
+leia x
+leia mp
+Mp = [(N1 x P1) + (N2 x P2) + (N3 x P3) + ... (Nx x Px)] ÷ (P1 + P2 + ...px)
+faca mp
